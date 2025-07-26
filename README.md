@@ -45,7 +45,7 @@ This project conducts an in-depth analysis of a health insurance dataset to unco
 - Integrate Machine Learning models for predictive risk assessments.
 
 - ## Connect with Me:
-- LinkedIn: [https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd)]
-- GitHub: [(https://github.com/Dandyson24)]
+- LinkedIn: https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd
+- GitHub: https://github.com/Dandyson24
 
 #DataAnalytics #HealthInsurance #Python #Profitability #BusinessInsights #HealthcareInnovation #NigeriaTech
